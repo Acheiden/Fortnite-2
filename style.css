@@ -1,0 +1,22 @@
+.colornav a{
+font-size: larger;
+font-weight: bold;
+}
+
+main{
+text-align: center;
+}
+
+.colornav img{
+    width: 200px;
+}
+
+p, ol, li{
+    text-align: justify;
+}
+
+#fundo{
+    background: rgb(49,212,214);
+background: linear-gradient(0deg, rgb(166, 255, 0) 0%, rgba(255,255,255,1) 100%);
+text-align: center;
+}
